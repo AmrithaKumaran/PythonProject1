@@ -1,0 +1,103 @@
+2026-02-18 22:43:46,534 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-18 22:43:48,145 : INFO : Test Login : Initialization of an application
+2026-02-18 22:48:28,702 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-18 22:48:33,047 : INFO : Test Login : Initialization of an application
+2026-02-18 22:49:32,049 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-18 22:49:33,542 : INFO : Test Login : Initialization of an application
+2026-02-18 23:04:56,328 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-18 23:04:57,632 : INFO : Test Login : Initialization of an application
+2026-02-18 23:04:58,860 : INFO : Test Login : Click on Register page
+2026-02-18 23:05:05,121 : INFO : Test Login : Account Registration is passed
+2026-02-19 05:44:42,685 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 05:44:43,617 : INFO : Test Login : Initialization of an application
+2026-02-19 05:44:44,507 : INFO : Test Login : Click on Register page
+2026-02-19 05:44:47,006 : INFO : Test Login : Account Registration is passed
+2026-02-19 05:45:46,494 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 05:45:47,428 : INFO : Test Login : Initialization of an application
+2026-02-19 05:45:48,122 : INFO : Test Login : Click on Register page
+2026-02-19 05:45:49,479 : INFO : Test Login : Account Registration is passed
+2026-02-19 05:59:05,872 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 05:59:07,277 : INFO : Test Login : Initialization of an application
+2026-02-19 05:59:07,995 : INFO : Test Login : Click on Register page
+2026-02-19 05:59:09,273 : INFO : Test Login : Account Registration is passed
+2026-02-19 06:01:45,936 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 06:01:46,643 : INFO : Test Login : Initialization of an application
+2026-02-19 06:01:47,312 : INFO : Test Login : Click on Register page
+2026-02-19 06:01:49,326 : ERROR : Test Login : Account Registration Failed
+2026-02-19 06:09:49,905 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 06:09:49,910 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-19 06:09:51,021 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-19 06:09:51,021 : DEBUG : Test Login : HomePage object created
+2026-02-19 06:09:51,389 : INFO : Test Login : Clicked on My Account link
+2026-02-19 06:09:51,765 : INFO : Test Login : Clicked on Register page
+2026-02-19 06:09:51,765 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-19 06:09:53,490 : INFO : Test Login : Account Registration is passed
+2026-02-19 06:12:03,198 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 06:12:03,198 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-19 06:12:04,009 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-19 06:12:04,009 : DEBUG : Test Login : HomePage object created
+2026-02-19 06:12:04,373 : INFO : Test Login : Clicked on My Account link
+2026-02-19 06:12:04,672 : INFO : Test Login : Clicked on Register page
+2026-02-19 06:12:04,672 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-19 06:12:06,525 : WARNING : Test Login : Expected confirmation message did not match
+2026-02-19 06:12:06,745 : ERROR : Test Login : Account Registration Failed
+2026-02-19 12:10:47,730 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 12:10:47,730 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-19 12:10:49,264 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-19 12:10:49,264 : DEBUG : Test Login : HomePage object created
+2026-02-19 12:10:49,559 : INFO : Test Login : Clicked on My Account link
+2026-02-19 12:10:49,813 : INFO : Test Login : Clicked on Register page
+2026-02-19 12:10:49,813 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-19 12:10:50,244 : WARNING : Test Login : Expected confirmation message did not match
+2026-02-19 12:10:51,203 : ERROR : Test Login : Account Registration Failed
+2026-02-19 12:12:54,324 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 12:12:54,324 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-19 12:12:56,064 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-19 12:12:56,064 : DEBUG : Test Login : HomePage object created
+2026-02-19 12:12:56,374 : INFO : Test Login : Clicked on My Account link
+2026-02-19 12:12:56,634 : INFO : Test Login : Clicked on Register page
+2026-02-19 12:12:56,634 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-19 12:12:57,877 : WARNING : Test Login : Expected confirmation message did not match
+2026-02-19 12:12:58,021 : ERROR : Test Login : Account Registration Failed
+2026-02-19 12:14:19,353 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 12:14:19,353 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-19 12:14:20,355 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-19 12:14:20,355 : DEBUG : Test Login : HomePage object created
+2026-02-19 12:14:20,677 : INFO : Test Login : Clicked on My Account link
+2026-02-19 12:14:20,926 : INFO : Test Login : Clicked on Register page
+2026-02-19 12:14:20,926 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-19 12:14:22,060 : INFO : Test Login : Account Registration is passed
+2026-02-19 18:17:32,467 : INFO : Test Login : ******* Starting test_002_login **********
+2026-02-19 18:17:36,410 : INFO : Test Login : ******* End of test_002_login **********
+2026-02-19 18:21:44,381 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-19 18:21:44,382 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-19 18:21:45,878 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-19 18:21:45,878 : DEBUG : Test Login : HomePage object created
+2026-02-19 18:21:46,224 : INFO : Test Login : Clicked on My Account link
+2026-02-19 18:21:46,670 : INFO : Test Login : Clicked on Register page
+2026-02-19 18:21:46,670 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-19 18:21:48,297 : INFO : Test Login : Account Registration is passed
+2026-02-19 18:21:55,320 : INFO : Test Login : ******* Starting test_002_login **********
+2026-02-19 21:31:29,567 : INFO : Test Login : **** Starting test_003_login_Datadriven *******
+2026-02-19 22:36:53,976 : INFO : Test Login : **** Starting test_003_login_Datadriven *******
+2026-02-20 06:46:29,112 : INFO : Test Login : **** Starting test_003_login_Datadriven *******
+2026-02-20 06:46:45,471 : INFO : Test Login : ******* End of test_003_login_Datadriven **********
+2026-02-20 07:18:11,842 : INFO : Test Login : ******* Starting test_002_login **********
+2026-02-20 07:18:15,474 : INFO : Test Login : ******* End of test_002_login **********
+2026-02-20 07:18:33,227 : INFO : Test Login : ******* Starting test_002_login **********
+2026-02-20 07:19:14,663 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-20 07:19:14,664 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-20 07:19:16,496 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-20 07:19:16,496 : DEBUG : Test Login : HomePage object created
+2026-02-20 07:19:16,890 : INFO : Test Login : Clicked on My Account link
+2026-02-20 07:19:17,345 : INFO : Test Login : Clicked on Register page
+2026-02-20 07:19:17,345 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-20 07:19:19,339 : INFO : Test Login : Account Registration is passed
+2026-02-20 11:33:17,072 : INFO : Test Login : test_001_AccountRegistration_test_Case
+2026-02-20 11:33:17,072 : DEBUG : Test Login : WebDriver instance assigned
+2026-02-20 11:33:18,578 : INFO : Test Login : Application launched with URL: https://tutorialsninja.com/demo/
+2026-02-20 11:33:18,580 : DEBUG : Test Login : HomePage object created
+2026-02-20 11:33:18,978 : INFO : Test Login : Clicked on My Account link
+2026-02-20 11:33:19,562 : INFO : Test Login : Clicked on Register page
+2026-02-20 11:33:19,562 : DEBUG : Test Login : AccountRegistrationPage object created
+2026-02-20 11:33:23,176 : INFO : Test Login : Account Registration is passed
